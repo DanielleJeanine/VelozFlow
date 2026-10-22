@@ -42,10 +42,8 @@ Projeto desenvolvido como parte da apresentação para o processo seletivo **Cod
 
 **Empresa fictícia:** VelozMart  
 **Solução proposta:** VelozFlow  
-**Tema:** Priorização de pedidos e otimização da expedição logística.
-**Tema:** Danielle Jeanine da Silva
-          Thais Macedo
-          Agiana da Silva
+**Tema:** Priorização de pedidos e otimização da expedição logística. 
+**Equipe:** Danielle Jeanine da Silva - Thais Macedo  - Agiana da Silva
 
 ---
 
