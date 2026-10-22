@@ -2,6 +2,9 @@
 
 ### 📦 Uma solução para tornar a expedição logística mais organizada, eficiente e orientada por prioridades.
 
+## Equipe
+
+Danielle Jeanine da Silva - Thais Macedo  - Agiana da Silva
 
 ## 📌 Sobre o projeto
 
@@ -43,7 +46,6 @@ Projeto desenvolvido como parte da apresentação para o processo seletivo **Cod
 **Empresa fictícia:** VelozMart  
 **Solução proposta:** VelozFlow  
 **Tema:** Priorização de pedidos e otimização da expedição logística. 
-**Equipe:** Danielle Jeanine da Silva - Thais Macedo  - Agiana da Silva
 
 ---
 
